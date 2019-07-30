@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OOO",
+    "OBO",
+    "OOO"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:ender_crystal"
+    },
+    "B": {
+    	"item": "minecraft:chorus_fruit"
+    }
+  },
+  "result": {"item": "sleepwalkermod:pocket_end_portal"},
+    "count": 1
+}

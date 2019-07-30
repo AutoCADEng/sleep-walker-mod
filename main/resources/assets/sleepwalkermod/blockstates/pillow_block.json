@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "sleepwalkermod:block/pillow_block" }
+    }
+}

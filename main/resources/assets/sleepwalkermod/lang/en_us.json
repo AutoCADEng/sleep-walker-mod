@@ -1,0 +1,14 @@
+{
+	"item.sleepwalkermod.dream_journal": "Dream Journal",
+	"item.sleepwalkermod.hot_cocoa": "Hot Cocoa",
+	"item.sleepwalkermod.pocket_end_portal": "Pocket End Portal",
+	"item.sleepwalkermod.pocket_nether_portal": "Pocket Nether Portal",
+	"item.sleepwalkermod.pouch": "Pouch",
+	"block.sleepwalkermod.pillow_block": "Pillow Foam",
+	"block.sleepwalkermod.cloud_block": "Cloud Block",
+	"itemGroup.sleepwalkertab": "Sleep Walker",
+	"effect.sleepwalkermod.calmness": "Calmness",
+	"effect.sleepwalkermod.lucidity": "Lucidity",
+	"effect.sleepwalkermod.anxiety": "Anxiety",
+	"effect.sleepwalkermod.memory": "Memory"
+}

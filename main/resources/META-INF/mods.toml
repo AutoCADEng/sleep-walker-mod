@@ -1,0 +1,10 @@
+modLoader="javafml" #mandatory
+loaderVersion="[28,)" #mandatory (26 is current forge version)
+[[mods]] #mandatory
+modId="sleepwalkermod" #mandatory
+version="0.1.0" #mandatory
+displayName="Sleep Walker Mod" #mandatory
+description='''
+Sleep Walker Mod
+By AutoCAD_English
+'''
